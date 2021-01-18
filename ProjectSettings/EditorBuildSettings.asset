@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Stage.unity
+    path: Assets/HANT/Scenes/Stage.unity
     guid: 6a705c22cce01f74f85c84b0f090e002
+  - enabled: 1
+    path: Assets/HANT/Scenes/Title.unity
+    guid: a2160d76dea7e6047a559927fe5e0182
+  - enabled: 1
+    path: Assets/HANT/Scenes/Menu/Explanation.unity
+    guid: 964a5148f397b644898a6316d73ea007
+  - enabled: 1
+    path: Assets/HANT/Scenes/Menu/Option.unity
+    guid: 6f8e6b5a3e558f8479aad2c7259c0622
   m_configObjects: {}
